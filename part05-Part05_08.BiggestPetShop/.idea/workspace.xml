@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e0934bb-72e2-4a5a-a4bf-fd875a09a45b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/classes/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/classes/MainProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/test-classes/ConstructorSignature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/test-classes/CounterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/test-classes/MethodSignature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/target/test-classes/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/runConfigurations/Part05_07_NullPointerException.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_06.OverloadedCounter/src/main/java/MainProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/src/main/java/NullPointerExceptionProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part05-Part05_07.NullPointerException/src/main/java/NullPointerExceptionProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
