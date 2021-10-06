@@ -15,7 +15,7 @@ public class Counter {
     public void decrease(){
         count--;
     }
-    public void increasee(int increaseBy){
+    public void increase(int increaseBy){
         if(increaseBy < 0){
             this.count = count;
         }else{
