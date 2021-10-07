@@ -26,11 +26,40 @@ public class SimpleDate {
         }
 
         if (this.year == compared.year && this.month == compared.month &&
-                 this.day < compared.day) {
+                this.day < compared.day) {
             return true;
         }
 
         return false;
     }
+
+    public void advance() {
+        if (day == 30) {
+            this.day = 1;
+            if (month == 12) {
+                this.year++;
+                this.month = 1;
+            } else {
+                this.month++;
+            }
+        } else {
+            this.day++;
+        }
+    }
+
+    public void advance(int howManyDays) {
+        for(int i = 0; i < howManyDays; i++){
+            advance();
+        }
+    }
+
+    public SimpleDate afterNumberOfDays(int days) {
+        SimpleDate date = new SimpleDate(day, month, year);
+        for (int i = 0; i < days; i++) {
+            date.advance();
+        }
+        return date;
+    }
+
 
 }

@@ -2,7 +2,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        // test your program here!
+
+
+        // use this main method to try out your classes!
 
     }
 }
