@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Part06_08.CargoHold" />
+        <module name="part06-Part06_08.CargoHold" />
       </profile>
     </annotationProcessing>
   </component>
