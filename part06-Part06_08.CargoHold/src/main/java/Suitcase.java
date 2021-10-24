@@ -12,8 +12,10 @@ public class Suitcase {
     }
 
     public void addItem(Item item) {
-        if (item.getWeight() + totalWeight() < maxWeight) {
+        if (item.getWeight() + totalWeight() <= maxWeight) {
             items.add(item);
+        }else{
+            return;
         }
 
     }

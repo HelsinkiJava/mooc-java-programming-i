@@ -14,6 +14,13 @@ public class Hold {
             return;
         }
     }
+    public int weightSuitcase(){
+        int weight = 0;
+        for(Suitcase s : hold){
+            weight += s.totalWeight();
+        }
+        return weight;
+    }
     public int weight(){
         int weight = 0;
         for(Suitcase s : hold){
@@ -35,7 +42,7 @@ public class Hold {
     }
     public void printItems(){
         for(Suitcase s : hold){
-            System.out.println(s);
+            s.printItems();
         }
     }
 }
